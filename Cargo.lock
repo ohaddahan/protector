@@ -293,9 +293,9 @@ dependencies = [
 
 [[package]]
 name = "bloom-sol"
-version = "0.0.2"
+version = "0.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "988cee648294bb825a97dc6190ad8142352df5cd0bfa939c17d3092b460a414c"
+checksum = "8cd3349d0b876d7eca0d7c9b49c8b0bbf1a2e7afb76d7c1ef4b4557de324a62f"
 
 [[package]]
 name = "borsh"
